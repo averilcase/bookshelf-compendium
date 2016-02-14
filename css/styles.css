@@ -1,0 +1,555 @@
+html { 
+	height: 100%;
+	background-image: url('../img/agsquare.png');
+}
+
+body { 
+	margin: 0 auto; 
+	padding: 0; 
+	width: 100%;
+	max-width: 1300px;
+	min-width: 320px;
+	background-color: #fff;
+
+}
+
+nav {
+	background-color: #665445;
+	padding: 10px 0 20px 0;
+}
+nav img {
+	margin: 15px 0 0 20px;
+	padding-top: 10px;
+}
+
+nav li {
+	display:inline-block;
+}
+nav a {
+	text-decoration: none;
+	color: #fff;
+	font-family: 'Montserrat', Arial, Sans-Serif;
+	text-transform: uppercase;
+	letter-spacing: 0.2em;
+	margin-left: 20px;
+	
+}
+nav li:nth-child(2) {
+	padding: 0 10px 0 10px;
+}
+nav ul {
+	padding-right: 0;
+	float:right;
+	margin-right: 40px;
+}
+nav a:hover {
+	color:#e76837;
+}
+#map-container h2 {
+	margin-top: 0;
+	color: #fff;
+	font-family: 'Montserrat', Arial, Sans-Serif;
+	text-transform: uppercase;
+	font-weight: lighter;
+	letter-spacing: 1px;
+	text-align: center;
+	padding-top: 20px;
+}
+#zoomOut {
+	background-color: #fff;
+	font-family: 'Montserrat', Arial, Sans-Serif;
+}
+
+#desktop-form {
+	width:750px;
+	margin: 0 auto;
+	padding-bottom: 30px;
+}
+#mobile-form {
+	width: 300px;
+	margin: 0 auto;
+}
+#mobile-form button {
+	margin-bottom: 30px;
+}
+#desktop-form input[type=text],
+#destop-form input[type=email] {
+	font-family: 'Open Sans', Arial, Sans-Serif;
+	font-size: 1em;
+	display: block;
+	width: 250px;
+	height: 2em;
+	margin: 10px 0 25px 0;
+}
+form input[type=radio] {
+	margin: 10px 0 10px 0;
+}
+form textarea {
+	display: block;
+	margin-top: 10px;
+}
+form label {
+	color: #fff;
+	font-family: 'Open Sans', Arial, Sans-Serif;
+	font-size: 1em;
+}
+#right-side {
+	float: right;
+	clear: both;
+}
+#desktop-form button {
+	float: right;
+	background-color: #e76837;
+	border: none;
+	font-size: 1.5em;
+	text-transform: uppercase;
+	color: #fff;
+	font-family: 'Montserrat', Arial, Sans-Serif;
+	padding:.3em 1.5em;
+	letter-spacing: .2em;
+	margin-top: 30px;
+}
+#map-container {
+	background-color: #809994;
+}
+
+h1 {
+	margin-top: 0;
+	color: #fff;
+	font-family: 'Montserrat', Arial, Sans-Serif;
+	text-transform: uppercase;
+	font-weight: lighter;
+	letter-spacing: 1px;
+	text-align: center;
+	padding-top: 20px;
+	margin-bottom: 60px;
+}
+#bookshops-map {
+	height: 400px;
+	width: 500px;
+	border: 10px solid #fff;
+	margin-left: 40px;
+}
+#call-to-action a {
+	text-decoration: none;
+	color: #fff;
+	font-family: 'Montserrat', Arial, Sans-Serif;
+	text-transform: uppercase;
+	float: right;
+	clear: both;
+	margin-top: 100px;
+	padding: 0.5em 3em;
+}
+#call-to-action a:first-child {
+	background-color: #e76837;
+}
+#call-to-action a:last-child {
+	border: 2px solid #fff;
+	padding: 0.5em 3.3em;
+}
+.clearfix {
+	overflow: auto;
+}
+#call-to-action-mobile {
+	display: none;
+}
+#read-blog {
+	font-family: 'Montserrat', Arial, Sans-Serif;
+	text-transform: uppercase;
+	letter-spacing: .3em;
+	text-align: center;
+	margin-bottom: 40px;
+}
+#read-blog a {
+	font-size: 120%;
+}
+#read-blog a {
+	text-decoration: none;
+	color: #fff;
+}
+.blog-date {
+	float:left;
+	clear: both;
+}
+.blog-date h2 {
+	color:#e76837;
+	font-size: 220%;
+}
+.blog-date sup {
+	text-transform: uppercase;
+	font-weight: bold;
+	font-family: 'Open Sans', Arial, Sans-Serif;
+	font-size: 70%;
+}
+
+#blog h2 {
+	font-family: 'Montserrat', Arial, Sans-Serif;
+	text-transform: uppercase;
+}
+#blog p {
+	font-family: 'Open Sans', Arial, Sans-Serif;
+	font-size: 13px;
+}
+#blog a {
+	border: 1px solid #181818;
+	padding: 0.3em 1em;
+	border-radius: 3px;
+	text-decoration: none;
+	color: #181818;
+	font-family: 'Open Sans', Arial, Sans-Serif;
+	letter-spacing: 0.2em;
+	font-size: 13px;
+}
+#blog {
+	padding-bottom: 40px;
+}
+.paragraph {
+	padding-bottom: 20px; 
+}
+#archive {
+	text-align: center;
+	padding-top: 40px;
+}
+footer {
+	background-color: #665445;
+	padding-bottom: 70px;
+}
+footer p {
+	font-family: 'Open Sans', Arial, Sans-Serif;
+	color: #fff;
+	font-size: 13px;
+	float: left;
+	margin: 10px;
+}
+footer img {
+	float:right;
+	clear: both;
+	margin: 10px 10px 0 0;
+}
+hr {
+	margin: 30px 0 40px 0;
+}
+
+
+@media all and (min-width: 320px) {
+	nav img {
+		margin:0;
+		margin-left: 18px;
+	}
+	nav a {
+		margin: 0 auto;
+		font-size: 80%;
+	}
+	nav ul {
+		text-align: center;
+	}
+	nav li:nth-child(2) {
+		padding: 0 5px 0 5px;
+	}
+	h1 {
+		font-size: 130%;
+		margin-bottom: 30px;
+		padding-top: 20px;
+	}
+	#desktop-form {
+		display: none;
+	}
+	#mobile-form {
+	display: block;
+	}
+	#mobile-form label:first-child {
+		display: block;
+	}
+	#mobile-form div {
+		margin-bottom: 10px;
+	}
+	#mobile-form input[type=text],
+	input[type=email] {
+		width: 200px;
+		height: 2em;
+		font-size: 12px;
+	}
+	#mobile-form button {
+		background-color: #e76837;
+		border: none;
+		font-size: 1em;
+		text-transform: uppercase;
+		color: #fff;
+		font-family: 'Montserrat', Arial, Sans-Serif;
+		padding:.3em 1.5em;
+		letter-spacing: .2em;
+		margin-top: 30px;
+	}
+	#bookshops-map {
+		height: 240px;
+		width: 280px;
+		margin-left: 0;
+		border: 5px solid #fff;
+		margin: 0 auto;
+	}
+	#call-to-action {
+		display: none;
+	}
+	#call-to-action-mobile a {
+		padding: 0.5em 2em;
+		margin: 10px;
+		display: inline-block;
+		text-decoration: none;
+		color: #fff;
+		font-family: 'Montserrat', Arial, Sans-Serif;
+		text-transform: uppercase;
+		padding: 0.5em 3.3em;
+	}
+	#call-to-action-mobile {
+		text-align: center;
+	}
+	#call-to-action-mobile a:first-child {
+		background-color: #e76837;
+	}
+	#call-to-action-mobile a:last-child {
+		border: 2px solid #fff;
+		padding: 0.5em 3.3em;
+	}
+	#call-to-action-mobile {
+		font-size: 130%;
+		margin: 10px 0 20px 0;
+	}
+	#call-to-action-mobile {
+		display: block;
+	}
+	.blog-date {
+		margin-left:40%;
+		margin-bottom: 10px;
+	}
+	.blog-date h2 {
+		margin: 0 auto;
+	}
+	#blog {
+		text-align: center;
+	}
+	.paragraph {
+		padding-bottom: 20px;
+		width: 300px;
+		margin: 0 auto;
+		font-size: 12px;
+	}
+	#blog a {
+		font-size: 10px;
+	}
+	#blog p {
+		padding-bottom: 10px;
+	}
+	#footer img {
+		margin-right: 20%;
+		padding-bottom: 10px;
+	}
+
+
+}
+
+
+
+@media all and (min-width: 580px) {
+	h1 {
+		font-size: 160%;
+	}
+	#desktop-form {
+		display: none;
+	}
+	#mobile-form {
+	display: block;
+	margin-bottom: 20px;
+	}
+	#bookshops-map {
+		height:350px;
+		width: 400px;
+	}
+	#call-to-action-mobile a {
+		width: 280px;
+	}
+	#mobile-form button {
+		background-color: #e76837;
+		border: none;
+		font-size: 1em;
+		text-transform: uppercase;
+		color: #fff;
+		font-family: 'Montserrat', Arial, Sans-Serif;
+		padding:.3em 1.5em;
+		letter-spacing: .2em;
+		margin-top: 30px;
+	}
+	#mobile-form input[type=text],
+	input[type=email] {
+		width: 200px;
+		height: 2em;
+		font-size: 12px;
+	}
+	#blog {
+		padding-top: 50px;
+		width: 500px;
+		margin: 0 auto;
+	}
+	.blog-date {
+		float: left;
+		position: absolute;
+		left: -200px;
+	}
+	.paragraph {
+		width: 400px;
+		padding-left: 120px;
+		text-align: left;
+	}
+	#blog a {
+		font-size: 12px;
+	}
+	
+}
+
+
+
+
+@media all and (min-width: 768px) {
+	nav a {
+		font-size: 115%;
+	}
+	h1 {
+		font-size: 200%;
+	}
+	#desktop-form {
+		display: block;
+	}
+	#mobile-form {
+	display: none;
+	}
+	#bookshops-map {
+		height: 330px;
+		width: 380px;
+		margin-bottom: 50px;
+	}
+	#call-to-action {
+		display: block;
+		margin-right: 50px;
+		font-size: 150%;
+	}
+	#call-to-action a {
+		margin-top: 70px;
+		margin-left: 15px;
+	}
+	#call-to-action-mobile {
+		display: none;
+	}
+	#blog {
+		padding-top: 50px;
+		width: 750px;
+		margin: 0 auto;
+	}
+	.blog-date {
+		float: left;
+		position: absolute;
+		left: -290px;
+	}
+	.paragraph {
+		width: 600px;
+		padding-left: 120px;
+		text-align: left;
+	}
+	#blog a {
+		font-size: 12px;
+	}
+	footer img {
+		margin-right: 10px;
+	}
+	
+}
+
+@media all and (min-width: 960px) {
+
+	nav a {
+		font-size: 120%;
+	}
+	h1 {
+		font-size: 200%;
+
+	}
+	#destop-form {
+		display: block;
+
+	}
+	#mobile-form {
+	display: none;
+	}
+	#right-side {
+		margin-left: 50px;
+	}
+	#bookshops-map {
+		height: 350px;
+		width: 450px;
+		border: 10px solid #fff;
+		margin-left: 40px;
+		margin-bottom: 50px;
+	}
+	#call-to-action {
+		display: block;
+	}
+	#call-to-action a {
+		margin-top: 80px;
+		font-size: 120%;
+
+	}
+	#blog {
+		padding-top: 50px;
+		width: 800px;
+		margin: 0 auto;
+	}
+	.blog-date {
+		float: left;
+		position: absolute;
+		left: -320px;
+	}
+	.paragraph {
+		width: 700px;
+		padding-left: 120px;
+		text-align: left;
+	}
+	#blog a {
+		font-size: 12px;
+	}
+	footer img {
+		margin-right: 10px;
+	}
+
+
+}
+
+@media all and (min-width: 1100px) {
+
+	#bookshops-map {
+		height: 400px;
+		width: 550px;
+		border: 10px solid #fff;
+		margin-left: 40px;
+		margin-bottom: 50px;
+		margin-top: 20px;
+	}
+	.blog-date {
+		float: left;
+		position: absolute;
+		left: -310px;
+	}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
