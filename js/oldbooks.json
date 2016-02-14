@@ -1,0 +1,233 @@
+[
+    
+    {
+        "name": "Arty Bees",
+        "lat": -41.291536,
+        "lng": 174.777192,
+        "content": "Arty Bees keep a range of books on almost every topic and have more than 130,000 different titles in their enormous centrally located store, with Antiquarianand Used books, including a huge range of New Zealand Titles, Non-fiction books on almost every topic, and Wellington's largest range of Fiction.",
+        "type": "Specialty: Secondhand"
+    },
+    {
+        "name": "Hedleys Booksellers",
+        "lat": -40.950142,
+        "lng": 175.660964,
+        "content": "Hedleys Booksellers was established in 1907 by William Hedley, initially as a distributor of daily newspapers in Masterton New Zealand, but was further developed by Alexander Hedley over the next 60 years into a large independent stockholding bookshop. It is now owned and managed by David and Jenny Hedley.",
+        "type": "Specialty: New and Secondhand"
+    },
+    {
+        "name": "Des Schollum House Of Books",
+        "lat": -41.214507,
+        "lng": 174.922612,
+        "content": "Lower Hutt's premier secondhand bookshop",
+        "type": "Specialty: Secondhand"
+    },
+    {
+        "name": "Heritage Books",
+        "lat": -40.948612,
+        "lng": 175.663409,
+        "content": "Heritage Books specialises in selling and trading Christian books",
+        "type": "Specialty: Secondhand"
+    },
+    {
+        "name": "Sue's Quality Book Exchange",
+        "lat": -41.134694,
+        "lng": 174.840768,
+        "content": "Secondhand bookshop located in Porirua",
+        "type": "Specialty: Secondhand"
+    },
+    {
+        "name": "Bookstacks",
+        "lat": -40.91906,
+        "lng": 174.981862,
+        "content": "Raumati Beach secondhand bookshop",
+        "type": "Specialty: Secondhand"
+    },
+    {
+        "name": "Rainbow Books",
+        "lat": -41.316274,
+        "lng": 174.780516,
+        "content": "Newtown's quirky little secondhand bookshop",
+        "type": "Specialty: Secondhand"
+    },
+    {
+        "name": "Hard To Find Books",
+        "lat": -36.923165,
+        "lng": 174.785452,
+        "content": "From rare and collectible books to modern 1st editions, from old hardback books to the common, cheap and cheerful paperback, Online is a treasure-trove of fascinating second hand books.",
+        "type": "Specialty: Secondhand"
+    },
+    {
+        "name": "Junk & Disorderly",
+        "lat": -36.807075,
+        "lng": 174.742029,
+        "content": "Junk & Disorderly has been a dusty jewel of the North Shore since 1992. Since its inception it has won two Metro Best of Auckland awards and was nominated for Retailer of the Year.",
+        "type": "Specialty: Secondhand"
+    },
+    {
+        "name": "Ariel Books Ltd",
+        "lat": -36.86235,
+        "lng": 174.761261,
+        "content": "Ariel Books is a reasonably priced second hand book shop with an extensive range of interesting titles.",
+        "type": "Specialty: Secondhand"
+    },
+    {
+        "name": "Jason Books",
+        "lat": -36.847569,
+        "lng": 174.767162,
+        "content": "Jason Books deals in secondhand, out-of-print, and rare books.",
+        "type": "Specialty: Secondhand"
+    },
+    {
+        "name": "Classics and Suchlike Books",
+        "lat": -36.852627,
+        "lng": 174.745303,
+        "content": "At Classics and Suchlike Books in Ponsonby They sell secondhand books. From classics to rare and collectible, everyday a treasure can be found hidden in this store.",
+        "type": "Specialty: Secondhand"
+    },
+    {
+        "name": "Bookwormz",
+        "lat": -36.979595,
+        "lng": 174.852273,
+        "content": "Bookwormz has a large variety of secondhand books, with an emphasis on Romance and Science fiction.",
+        "type": "Specialty: New and Secondhand"
+    },
+    {
+        "name": "Off The Shelf Books",
+        "lat": -36.840776,
+        "lng": 174.651585,
+        "content": "Off The Shelf Books is a quaint shop with a good selection of second hand books.",
+        "type": "Specialty: Secondhand"
+    },
+    {
+        "name": "Rare Books",
+        "lat": -36.847037,
+        "lng": 174.766824,
+        "content": "Auckland’s oldest established & leading dealers in fine & early books + maps and engravings from the 18th & 19th centuries, early photographs, ephemera, postcards, autograph letters, valuations undertaken.",
+        "type": "Specialty: Secondhand"
+    },
+    {
+        "name": "BookMark",
+        "lat": -36.831548,
+        "lng": 174.796933,
+        "content": "Quality Secondhand Books & Rare Books.",
+        "type": "Specialty: Secondhand"
+    },
+    {
+        "name": "Books At Devonport Wharf",
+        "lat": -36.831518,
+        "lng": 174.793631,
+        "content": "Books and music from around the world on every subject. Something for all ages.",
+        "type": "Specialty: Secondhand"
+    },
+    {
+        "name": "Smith's Bookshop",
+        "lat": -43.556805, 
+        "lng": 172.680361,
+        "content": "Smith's Bookshop is a long established New Zealand bookseller stocking rare books, antiquarian books, secondhand books, new books, magazines, stationery and art supplies.",
+        "type": "Specialty: New and Secondhand"
+    },
+    {
+        "name": "St Christophers Dove Bookshop",
+        "lat": -43.529436, 
+        "lng": 172.602243,
+        "content": "The denoted books at St Christophers Dove Bookshop, mean they get passed onto you for a very reasonable prices.",
+        "type": "Specialty: Secondhand"
+    },
+    {
+        "name": "Addington Books",
+        "lat": -43.544418, 
+        "lng": 172.610248,
+        "content": "Quality Secondhand Books & Rare Books.",
+        "type": "Specialty: Secondhand"
+    },
+    {
+        "name": "Marston Moor",
+        "lat": -35.114645, 
+        "lng": 173.264158,
+        "content": "Quality Secondhand Books & Rare Books.",
+        "type": "Specialty: Secondhand"
+    },
+    {
+        "name": "Piggery Secondhand Book Shop",
+        "lat": -35.726318, 
+        "lng": 174.322453,
+        "content": "The Piggery is Northland's largest secondhand bookshop, offering a huge range of secondhand books as well as special-interest new books.",
+        "type": "Specialty: Secondhand"
+    },
+    {
+        "name": "Browsers Secondhand Books",
+        "lat": -37.788699, 
+        "lng": 175.284179,
+        "content": "With an extensive array of both fiction and non-fiction as well as shelves piled with popular fiction, children's books, New Zealand history, the arts, gardening and sci-fi you'll spend hours searching through all that Browsers has to offer. ",
+        "type": "Specialty: Secondhand"
+    },
+    {
+        "name": "Lotsabooks",
+        "lat": -37.839019, 
+        "lng": 175.361482,
+        "content": "Quality Secondhand Books & Rare Books.",
+        "type": "Specialty: Secondhand"
+    },
+    {
+        "name": "Atlantis Books",
+        "lat": -38.139112, 
+        "lng": 176.250265,
+        "content": "Atlantis Books is one of the few bookstores in New Zealand that sells a range of both new and used (second hand) books.",
+        "type": "Specialty: New and Secondhand"
+    },
+    {
+        "name": "Bookstop Gallery",
+        "lat": -39.057893, 
+        "lng": 174.072904,
+        "content": "BookStop Gallery has an extensive range of books - fiction and non-fiction - covering every topic imaginable. ",
+        "type": "Specialty: Secondhand"
+    },
+    {
+        "name": "Bretts Books & Keys",
+        "lat": -41.336777, 
+        "lng": 173.183900,
+        "content": "Quality Secondhand Books & Rare Books.",
+        "type": "Specialty: Secondhand"
+    },{
+        "name": "Still Books At Tans Place",
+        "lat": -41.514975, 
+        "lng": 173.956694,
+        "content": "Quality Secondhand Books & Rare Books.",
+        "type": "Specialty: Secondhand"
+    },{
+        "name": "Novel",
+        "lat": -36.845726, 
+        "lng": 174.735646,
+        "content": "Novel is the sort of bookstore you want to hover in for as long as possible. There is an impressive range of beautiful books, and they are given plenty of space so it is easy for a cover to catch your eye.",
+        "type": "Specialty: Secondhand"
+    },{
+        "name": "Black Cat Bookshop",
+        "lat": -45.031472,  
+        "lng": 168.661184,
+        "content": "Huge selection of Second Hand and New books",
+        "type": "Specialty: New and Secondhand"
+    },{
+        "name": "Wanderlust Books",
+        "lat": -45.251826,
+        "lng": 169.389003,
+        "content": "Wanderlust has a large range of secondhand travel books",
+        "type": "Specialty: Secondhand" 
+    },{
+        "name": "Prestonville Paperbacks",
+        "lat": -46.386991, 
+        "lng": 168.353019,
+        "content": "Prestonville Paperbacks is a second hand bookshop with over 7,000 books in store.",
+        "type": "Specialty: Secondhand" 
+    },{
+        "name": "Browse Around Books",
+        "lat": -46.408411, 
+        "lng": 168.364362,
+        "content": "Dealers of Fine, Second-Hand, Out of Print, and Rare Books.",
+        "type": "Specialty: Secondhand" 
+    },{
+        "name": "Galaxy Books",
+        "lat": -45.857397, 
+        "lng": 170.514846,
+        "content": "Dealers of Fine, Second-Hand, Out of Print, and Rare Books.",
+        "type": "Specialty: Secondhand" 
+    }]

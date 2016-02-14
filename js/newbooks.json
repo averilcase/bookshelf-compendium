@@ -1,0 +1,225 @@
+[
+    {
+        "name": "Almo's Books",
+        "lat": -41.02482,
+        "lng": 175.528859,
+        "content": "Almo Books is Carterton's friendly local book store offering titles in everything from Children & Young Adult Fiction to New Zealand and Local authors.",
+        "type": "Specialty: New"
+    },
+    {
+        "name": "Hedleys Booksellers",
+        "lat": -40.950142,
+        "lng": 175.660964,
+        "content": "Hedleys Booksellers was established in 1907 by William Hedley, initially as a distributor of daily newspapers in Masterton New Zealand, but was further developed by Alexander Hedley over the next 60 years into a large independent stockholding bookshop. It is now owned and managed by David and Jenny Hedley.",
+        "type": "Specialty: New and Secondhand"
+    },
+    {
+        "name": "Millwood Gallery",
+        "lat": -41.278622,
+        "lng": 174.769685,
+        "content": "Millwood Gallery has been part of the historic Tinakori Road Village since 1981.It exhibits a wide variety of original paintings, screenprints, woodblocks and etchings by New Zealand artists. Many feature New Zealand native birds and New Zealand native flowers. There is an extensive selection of New Zealand landscape and Wellington cityscape pieces.",
+        "type": "Specialty: New"
+    },
+    {
+        "name": "Pinnacle Books",
+        "lat": -41.290173,
+        "lng": 174.774063,
+        "content": "Pinnacle Books specialises in Astrology, personal Improvement, Holistic Health, Spirituality books",
+        "type": "Specialty: New"
+    },
+    {
+        "name": "Rona Gallery",
+        "lat": -41.29058,
+        "lng": 174.898359,
+        "content": "Rona Gallery has a wide selection of books in store from children's books to New Zealand Fiction.",
+        "type": "Specialty: New"
+    },
+    {
+        "name": "The Children's Bookshop",
+        "lat": -41.31845,
+        "lng": 174.794196,
+        "content": "The Children's Bookshop is a privately owned independent specialist bookstore dedicated to providing the widest range of children's and young adult literature from New Zealand and around the world.",
+        "type": "Specialty: New"
+    },
+    {
+        "name": "Unity Books (Wellington) Ltd",
+        "lat": -41.287725,
+        "lng": 174.775599,
+        "content": "Unity Books is an award-winning independent bookshop comprising of two sister-stores in Wellington and Auckland.",
+        "type": "Specialty: New"
+    },
+    {
+        "name": "Paradox Books",
+        "lat": -36.829919,
+        "lng": 174.797978,
+        "content": "In the heart of Devonport is the outstanding Paradox bookshop. A huge selection of books of authors all around the world.",
+        "type": "Specialty: New"
+    },
+    {
+        "name": "Poppies Books Remuera",
+        "lat": -36.880945,
+        "lng": 174.799165,
+        "content": "Poppies Remuera is a gem of a bookshop. Housed in the old horse stables c1890, Poppies is cocooned in the “Village Green” with access from Remuera’s main shopping area.",
+        "type": "Specialty: New"
+    },
+    {
+        "name": "Readaway Bookshop",
+        "lat": -36.894322,
+        "lng": 174.931862,
+        "content": "Readaway Books is located in Howick, Manukau City. For information about the wide range of books they stock please phone or email the store.",
+        "type": "Specialty: New"
+    },
+    {
+        "name": "The Booklover",
+        "lat": -36.773424,
+        "lng": 174.766592,
+        "content": "At Takapuna Beach’s beloved independent bookshop you will find something sure to please. Whether you are seeking a good novel, a pleasing mix of non-fiction – gardening, architecture, decorating, travel, fashion, art/design, self-help, food/cookery, health, business – perhaps coffee-table books, or books for children, they have created the best possible mosaic of books to reflect their readers’ interests.",
+        "type": "Specialty: New"
+    },
+    {
+        "name": "The Dorothy Butler Children's Bookshop",
+        "lat": -36.84736,
+        "lng": 174.743883,
+        "content": "The Dorothy Butler Children's Bookshop has one of the largest selections of quality children's books in New Zealand, and a wide range of educational toys, puzzles, games, music and audio books.",
+        "type": "Specialty: New"
+    },
+    {
+        "name": "Time Out Bookstore",
+        "lat": -36.881455,
+        "lng": 174.76213,
+        "content": "Established in 1988, in the heart of Auckland’s historic Mt Eden Village, Time Out Bookstore is renowned for its excellent and eclectic books, occasionally weird window displays, haven-like children's book room, and instore animal.",
+        "type": "Specialty: New"
+    },
+    {
+        "name": "Unity Books Auckland",
+        "lat": -36.847462,
+        "lng": 174.766568,
+        "content": "Unity Books opened a branch in Auckland's High Street in 1989 and in the period since they have embraced the technology of the computer age with an almost innocent nonchalance, sourcing books from overseas, responding positively to part-remembered titles and plot-lines, gleefully handing out its famous Eleven for Ten card, and supporting literature in New Zealand.",
+        "type": "Specialty: New"
+    },
+    {
+        "name": "Bookwormz",
+        "lat": -36.979595,
+        "lng": 174.852273,
+        "content": "Bookwormz has a large variety of secondhand books, with an emphasis on Romance and Science fiction.",
+        "type": "Specialty: New and Secondhand"
+    },
+    {
+        "name": "Methven Bookshop",
+        "lat": -43.633254, 
+        "lng": 171.646177,
+        "content": "Methven Bookshop is located in Methven. For more information on their books and services, please contact them by phone or email.",
+        "type": "Specialty: New"
+    },
+    {
+        "name": "Piccadilly Bookshop",
+        "lat": -43.510698, 
+        "lng": 172.557124,
+        "content": "Piccadilly Bookshop is a privately owned independent store with a wide range of books, stationery, cards and magazines. They particularly have an interest in history, biographies and gardens. They also have a good range of childrens literature. They are happy to try and source that special book for you.",
+        "type": "Specialty: New"
+    },
+    {
+        "name": "Scorpio Books",
+        "lat": -43.529887, 
+        "lng": 172.599753,
+        "content": "Established 32 years ago, this independent bookshop is a Christchurch institution. It is the place to go to browse and buy books. With old-fashioned leather library chairs strategically placed around the shop, it is easy to spend hours there.",
+        "type": "Specialty: New"
+    },
+    {
+        "name": "Smith's Bookshop",
+        "lat": -43.556805, 
+        "lng": 172.680361,
+        "content": "Smith's Bookshop is a long established New Zealand bookseller stocking rare books, antiquarian books, secondhand books, new books, magazines, stationery and art supplies.",
+        "type": "Specialty: New and Secondhand"
+    },
+    {
+        "name": "Moran's Bookshop",
+        "lat": -35.942204, 
+        "lng": 173.869192,
+        "content": " Moran's Bookshop is located in Dargaville in Kairpara. For more information please contact the store by phone.                  ",
+        "type": "Specialty: New"
+    },
+    {
+        "name": "Russell Bookshop",
+        "lat": -35.262863, 
+        "lng": 174.122683,
+        "content": "Russell Bookshop features New Zealand literature, Maori, Science, Children's books, Novels, and other interesting regional books.",
+        "type": "Specialty: New"
+    },
+    {
+        "name": "Carson's Bookshop",
+        "lat": -37.137891, 
+        "lng": 175.541888,
+        "content": "Carson's Bookshop is located in Thames township and stocks a full range of fiction and non-fiction titles. For more information please contact them by email or phone.",
+        "type": "Specialty: New"
+    },
+    {
+        "name": "The Storyteller",
+        "lat": -37.810407, 
+        "lng": 175.774794,
+        "content": "Popular and hard-to-find children's books, toys and more. Located in Matamata, New Zealand (home of Hobbiton), The Storyteller has become a popular destination for book lovers both young and old.",
+        "type": "Specialty: New"
+    },
+    {
+        "name": "Atlantis Books",
+        "lat": -38.139112, 
+        "lng": 176.250265,
+        "content": "Atlantis Books is one of the few bookstores in New Zealand that sells a range of both new and used (second hand) books.",
+        "type": "Specialty: New and Secondhand"
+    },
+    {
+        "name": "Books A Plenty",
+        "lat": -37.685004, 
+        "lng": 176.168560,
+        "content": "Books A Plenty is an independent bookstore in Tauranga, New Zealand. They were voted as the New Zealand Independent Bookstore for 2007.",
+        "type": "Specialty: New"
+    },
+    {
+        "name": "McLeods Booksellers",
+        "lat": -38.137160, 
+        "lng": 176.252225,
+        "content": "McLeods Booksellers offers a wide range of  quality books across a vast number of subjects.",
+        "type": "Specialty: New"
+    },
+    {
+        "name": "Muirs Bookshop",
+        "lat": -38.667013, 
+        "lng": 178.026495,
+        "content": "Muirs Bookshop & Cafe have a huge range of books, including fiction and non-fiction, children's and young adult books, as well as books covering a wide range of topics and subject areas.",
+        "type": "Specialty: New"
+    },
+    {
+        "name": "Beattie & Forbes Booksellers",
+        "lat": -39.490023, 
+        "lng": 176.916511,
+        "content": "Beattie & Forbes specialise in Art, Art Deco, Fashion and Architecture as well as having an extensive range New Zealand History, Maori History and Culture. They also carry a comprehensive selection of New Zealand fiction and poetry.",
+        "type": "Specialty: New"
+    },
+    {
+        "name": "Bruce McKenzie Booksellers",
+        "lat": -40.356244, 
+        "lng": 175.608819,
+        "content": "Bruce McKenzie Booksellers are located in central city Palmerston North and offer a full range of books.",
+        "type": "Specialty: New"
+    },
+    {
+        "name": "Blenheim Bookworld",
+        "lat": -41.512841, 
+        "lng": 173.956876,
+        "content": "Blenheim Bookworld prides themselves on stocking quality literature as well as the best of the bestsellers. They are also happy to help their customers with their special requests.",
+        "type": "Specialty: New"
+    },
+    {
+        "name": "Page and Blackmore Booksellers",
+        "lat": -41.273985, 
+        "lng": 173.283767,
+        "content": "Page & Blackmore Booksellers is an independent bookshop in Nelson, New Zealand. In September 1998 they amalgamated two longstanding Nelson bookshops, Pages Bookshop and Blackmore’s Booksellers (formerly the ABC Bookshop) to form the current shop.",
+        "type": "Specialty: New"
+    },
+    {
+        "name": "Black Cat Bookshop",
+        "lat": -45.031472,  
+        "lng": 168.661184,
+        "content": "Huge selection of Second Hand and New books",
+        "type": "Specialty: New and Secondhand"
+    }]
